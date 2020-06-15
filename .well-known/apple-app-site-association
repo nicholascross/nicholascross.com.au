@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["BRM53H4XE2.com.nacross.CoffeePayerPersonApp", "BRM53H4XE2.maccatalyst.com.nacross.CoffeePayerPersonApp"],
+             "components": [
+               {
+                  "/": "/coffee/*",
+                  "comment": "Coffee payer person personal app"
+               }
+             ]
+           }
+       ]
+   },
+}
