@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["BRM53H4XE2.com.nacross.Nexus", "BRM53H4XE2.maccatalyst.com.nacross.Nexus"],
+             "components": [
+               {
+                  "/": "/nexus/*",
+                  "comment": "no comment"
+               }
+             ]
+           }
+       ]
+   }
+}
